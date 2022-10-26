@@ -31,7 +31,8 @@
     background: black;
     padding: 10px;
     display: inline-block;
-    margin: auto;
+    margin-left: 45%;
+    margin-right: 45%;
 }
 
 .glow {
